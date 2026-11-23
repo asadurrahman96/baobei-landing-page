@@ -4,7 +4,6 @@ function CTA() {
     <section className="px-6 py-20 md:px-16 lg:px-24">
       <div className="mx-auto max-w-7xl overflow-hidden rounded-[2rem] bg-orange-500 px-8 py-16 text-center text-white md:px-16">
 
-        {/* Decorative Elements */}
         <div className="mb-6 text-5xl">
           🐼 🌈 ✨
         </div>

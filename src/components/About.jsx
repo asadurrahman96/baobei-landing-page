@@ -4,7 +4,7 @@ function About() {
     <section id="about" className="bg-white px-6 py-20 md:px-16 lg:px-24">
       <div className="mx-auto max-w-7xl">
 
-        {/* Section Heading */}
+     
         <div className="mx-auto max-w-3xl text-center">
           <span className="rounded-full bg-yellow-100 px-4 py-2 text-sm font-semibold text-yellow-700">
             💛 About Baobei Stories
@@ -22,7 +22,6 @@ function About() {
           </p>
         </div>
 
-        {/* Features */}
         <div className="mt-16 grid gap-8 md:grid-cols-3">
 
           <div className="rounded-3xl bg-orange-50 p-8 text-center transition hover:-translate-y-2">

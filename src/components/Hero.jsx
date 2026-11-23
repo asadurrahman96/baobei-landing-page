@@ -44,7 +44,6 @@ function Hero() {
             </a>
           </div>
 
-          {/* Highlights */}
           <div className="mt-10 flex flex-wrap gap-6 text-sm font-medium text-gray-600">
             <span>📚 Fun Stories</span>
             <span>💛 Life Lessons</span>
